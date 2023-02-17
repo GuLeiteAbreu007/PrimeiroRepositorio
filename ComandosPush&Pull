@@ -1,0 +1,5 @@
+Comandos Pull e Push
+
+Push: Manda do Computador (Repositório Local) para o GitHub (Repositório Remoto)
+
+Pull: Pega uma versão do GitHub(Repositório Remoto) e passa para o Computador(Repositório Local)
